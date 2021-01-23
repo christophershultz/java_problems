@@ -1,4 +1,4 @@
-class Euler1{
+class euler1{
     public static void main(String[] args){
         int su = 0, i = 1, x1 = 3, x2 = 5, mx = 1000;
         while(i < mx){
